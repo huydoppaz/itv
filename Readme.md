@@ -1,4 +1,4 @@
-// Tổng hợp kiến thức để đi interview
+
 
 ## 1. Kiến thức lập trình
 ## 2. Kiến thức về OS
